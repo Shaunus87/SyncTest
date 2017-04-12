@@ -159,7 +159,7 @@ namespace eVendVendingMachines {
         public int TimeoutInSeconds { get; protected set; }
 
         const int defaultTimeoutInterval = 20;
-        Timer timeoutTimer;
+        //Timer timeoutTimer;
 
         public BaseCommVendingMachine(string name, IComms comms) : this(name, comms, 20) {
 
@@ -174,7 +174,7 @@ namespace eVendVendingMachines {
             RecievedCommands = new List<CommCommand>();
             //config the timeout
             TimeoutInSeconds = timeoutIntervalSeconds;
-            timeoutTimer = new Timer(Timer_Tick);
+            //timeoutTimer = new Timer(Timer_Tick);
             RestartTimer();
         }
         int timesTicked;
@@ -201,7 +201,7 @@ namespace eVendVendingMachines {
         /// </summary>
         protected virtual void RestartTimer() {
             int millisecondsTimeout = TimeoutInSeconds * 1000;
-            timeoutTimer.Change(millisecondsTimeout, millisecondsTimeout);
+            //timeoutTimer.Change(millisecondsTimeout, millisecondsTimeout);
             timesTicked = 0;
         }
         /// <summary>
@@ -243,8 +243,8 @@ namespace eVendVendingMachines {
             Comms.CloseComms();
             Comms = null;
             //kill timer
-            timeoutTimer.Change(Timeout.Infinite, Timeout.Infinite);
-            timeoutTimer.Dispose();
+            //timeoutTimer.Change(Timeout.Infinite, Timeout.Infinite);
+            //timeoutTimer.Dispose();
 
             base.OnDispose();
         }

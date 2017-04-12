@@ -14,3 +14,11 @@ C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\
 C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\obj\Debug\TestVendingMachines.csprojResolveAssemblyReference.cache
 C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\obj\Debug\TestVendingMachines.dll
 C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\obj\Debug\TestVendingMachines.pdb
+C:\GitHubRepo\SyncTest\TestVendingMachines\bin\Debug\TestVendingMachines.dll
+C:\GitHubRepo\SyncTest\TestVendingMachines\bin\Debug\TestVendingMachines.pdb
+C:\GitHubRepo\SyncTest\TestVendingMachines\bin\Debug\eVendVendingMachines.dll
+C:\GitHubRepo\SyncTest\TestVendingMachines\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHubRepo\SyncTest\TestVendingMachines\bin\Debug\eVendVendingMachines.pdb
+C:\GitHubRepo\SyncTest\TestVendingMachines\obj\Debug\TestVendingMachines.csprojResolveAssemblyReference.cache
+C:\GitHubRepo\SyncTest\TestVendingMachines\obj\Debug\TestVendingMachines.dll
+C:\GitHubRepo\SyncTest\TestVendingMachines\obj\Debug\TestVendingMachines.pdb

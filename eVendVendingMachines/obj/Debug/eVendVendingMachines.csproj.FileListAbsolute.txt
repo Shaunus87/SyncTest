@@ -8,3 +8,8 @@ C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\
 C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\eVendVendingMachines\obj\Debug\eVendVendingMachines.csprojResolveAssemblyReference.cache
 C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\eVendVendingMachines\obj\Debug\eVendVendingMachines.dll
 C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\eVendVendingMachines\obj\Debug\eVendVendingMachines.pdb
+C:\GitHubRepo\SyncTest\eVendVendingMachines\obj\Debug\eVendVendingMachines.csprojResolveAssemblyReference.cache
+C:\GitHubRepo\SyncTest\eVendVendingMachines\obj\Debug\eVendVendingMachines.dll
+C:\GitHubRepo\SyncTest\eVendVendingMachines\obj\Debug\eVendVendingMachines.pdb
+C:\GitHubRepo\SyncTest\eVendVendingMachines\bin\Debug\eVendVendingMachines.dll
+C:\GitHubRepo\SyncTest\eVendVendingMachines\bin\Debug\eVendVendingMachines.pdb
