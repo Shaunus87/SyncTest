@@ -1,0 +1,16 @@
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\bin\Debug\TestVendingMachines.dll
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\bin\Debug\TestVendingMachines.pdb
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\obj\Debug\TestVendingMachines.csprojResolveAssemblyReference.cache
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\obj\Debug\TestVendingMachines.dll
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\obj\Debug\TestVendingMachines.pdb
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\bin\Debug\eVendVendingMachines.dll
+C:\Repos-2015\IVTS eVend\eVend\TestVendingMachines\bin\Debug\eVendVendingMachines.pdb
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\bin\Debug\TestVendingMachines.dll
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\bin\Debug\TestVendingMachines.pdb
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\bin\Debug\eVendVendingMachines.dll
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\bin\Debug\eVendVendingMachines.pdb
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\obj\Debug\TestVendingMachines.csprojResolveAssemblyReference.cache
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\obj\Debug\TestVendingMachines.dll
+C:\Users\shaun\OneDrive\Documents\Visual Studio 2015\Samples\SyncronousUnitTest\TestVendingMachines\obj\Debug\TestVendingMachines.pdb
